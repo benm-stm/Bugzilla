@@ -1,2 +1,2 @@
 # Bugzilla connection statistics
-These small shell scripts gives you the possibility to extract approximative statistics about the bugzilla users connexion and to save them in a CVS format. 
+This small shell script give you the ability to extract approximative statistics of users connexion in bugzilla and save the result in CVS format. 
